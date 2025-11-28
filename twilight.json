@@ -1031,6 +1031,16 @@
                     "maxLength": 30
                 }
             ]
+        },
+        {
+            "key": "ed877bd9-ba6d-453d-b2b9-a43616c9ecff",
+            "title": {
+                "en": "Multi Banners",
+                "ar": "بنرات متعددة"
+            },
+            "icon": "sicon-store",
+            "path": "home.multi-banners",
+            "fields": []
         }
     ],
     "support_url": "https://salla.com/",
